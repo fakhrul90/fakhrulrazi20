@@ -1,4 +1,8 @@
-# Aplikasi Kalkulator
-[![N|Solid](https://github.com/fakhrul90/fakhrul-razi/blob/master/Sc1.png)(https://github.com/fakhrul90/fakhrul-razi/blob/master/Sc1.png)
-[![N|Solid](https://github.com/fakhrul90/RaziFakhrul/blob/master/scr2.png)(https://github.com/fakhrul90/RaziFakhrul/blob/master/scr2.png)
-[![N|Solid](https://github.com/fakhrul90/RaziFakhrul/blob/master/scr3.png)(https://github.com/fakhrul90/RaziFakhrul/blob/master/scr3.png)
+# INPUT MAHASISWA
+[![N|Solid](https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar1.png)(https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar1.png)
+# UPDATE 
+[![N|Solid](https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar2.png)(https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar2.png)
+# SEARCH
+[![N|Solid](https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar3.png)(https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar3.png)
+# REMOVE
+[![N|Solid](https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar4.png)(https://github.com/fakhrul90/fakhrulrazi20/blob/master/Gambar4.png)
